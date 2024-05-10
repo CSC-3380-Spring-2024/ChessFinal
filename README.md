@@ -14,15 +14,16 @@ Chess++, This C# WPF application brings you three thrilling game modes: Explodin
 
 ## Installation
 
+Exclusive to Windows Platforms
+
 1. Clone the repository:
 2. Navigate to the project directory:
-3. Build the project: `dotnet build`
-4. Run the application: `dotnet run`
-
+3. Open with your favorite IDE that supports WPF
+4. Open Chess.Sln solution folder
+5. Set ChessUi as startup project.
+6. Run ChessUI as any other project and enjoy!
+7. 
 ## Usage
 
-```csharp
-// Example usage in C#
-ChessGame game = new ChessGame();
-game.StartNewGame(GameMode.ExplodingChess);
-// Have fun and conquer the chessboard! 👑
+Simple menu options are displayed on startup!
+Type in your fen notation into the blank box and click Save Input!
