@@ -1,16 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ChessUI
+﻿namespace ChessUI
 {
     public enum StartMenuOption
     {
         RegChess,
         HordeBoard,
         ExpChess,
-        Chess960
+        Chess960,
+        FenBoard
     }
 }
