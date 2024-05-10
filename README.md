@@ -1,6 +1,7 @@
 # Chess++
 
-![Chess Banner](https://via.placeholder.com/1000x200?text=Chess%2B%2B+Banner)
+![Chess Banner] <img width="336" alt="Screenshot-2024-05-05-19-34-45 2024-05-09 at 23 12 52" src="https://github.com/CSC-3380-Spring-2024/ChessFinal/assets/118138523/784399cd-4ece-4bee-8b8c-aa361a1e1395">
+)
 
 Chess++, This C# WPF application brings you three thrilling game modes: Exploding Chess 💥, Horde Chess 🧟, and Chess960 🔀, ensuring your strategic prowess is put to the ultimate test.
 
